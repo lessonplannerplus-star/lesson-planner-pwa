@@ -1,0 +1,11 @@
+{
+  "name": "Lesson Planner+",
+  "short_name": "LessonPlanner",
+  "description": "Create professional lesson plans on the go",
+  "start_url": "https://script.google.com/macros/s/AKfycbzMz_iAicMuM9VECFwtkVVdnljO6W6KI-d3yYGfWIbAmnwnlPc6XknklgoVyzqwNdNG/exec",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": []
+}
